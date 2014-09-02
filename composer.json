@@ -1,0 +1,6 @@
+{
+   "require": {
+      "guzzlehttp/guzzle": "4.*",
+      "tpyo/amazon-s3-php-class": "0.5.0"
+   }
+}
